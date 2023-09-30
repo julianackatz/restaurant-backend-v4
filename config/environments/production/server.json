@@ -1,5 +1,5 @@
 {
-  "host": "shark-app-mbvzt.ondigitalocean.app",
+  "host": "lobster-app-5g88v.ondigitalocean.app",
   "port": "${process.env.PORT || 1337}",
   "production": true,
   "proxy": {
