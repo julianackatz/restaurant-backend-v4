@@ -1,5 +1,5 @@
 {
-  "host": "lobster-app-5g88v.ondigitalocean.app",
+  "host": "hammerhead-app-4ckd6.ondigitalocean.app",
   "port": "${process.env.PORT || 1337}",
   "production": true,
   "proxy": {
